@@ -1,0 +1,9 @@
+requests
+time
+hashlib
+hmac
+json
+pybit
+pycryptodome
+ta
+pandas

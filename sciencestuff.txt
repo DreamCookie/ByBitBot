@@ -1,0 +1,6 @@
+https://bybit-exchange.github.io/docs/v5/account/wallet-balance - docs
+
+https://github.com/WISEPLAT/backtrader_bybit - good bot
+
+
+Bybit_TESTNET - test network
